@@ -78,7 +78,7 @@ This is a streamlit web application that can recommend various kinds of similar 
 Clone the repository
 
 ```bash
-https://github.com/Mihir/Movie-Recommender-System-Using-Machine-Learning.git
+https://github.com/mihirkudale/Movie-Recommender-System-Using-Machine-Learning.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
