@@ -56,10 +56,6 @@ The purpose of a recommendation system basically is to search for content that w
 
 This is a streamlit web application that can recommend various kinds of similar movies based on an user interest.
 
-# Dataset has been used:
-
-* [Dataset link](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
-
 # Concept used to build the model.pkl file : cosine_similarity
 
 1 . Cosine Similarity is a metric that allows you to measure the similarity of the documents.
